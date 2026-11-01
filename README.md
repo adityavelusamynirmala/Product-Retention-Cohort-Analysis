@@ -84,6 +84,21 @@ These are proposed investigation steps, not confirmed causes.
 - Event counts measure recorded activity, not necessarily meaningful engagement or successful product outcomes.
 - Segment differences do not establish causation.
 
+## Dashboard Preview
+
+### 1. Executive Overview
+
+![Executive Overview](docs/dashboard-screenshots/executive_overview.png)
+
+### 2. Cohort Retention Analysis
+
+![Cohort Retention Analysis](docs/dashboard-screenshots/cohort_retention_analysis.png)
+
+### 3. Retention Segmentation
+
+![Retention Segmentation](docs/dashboard-screenshots/retention_segmentation.png) 
+
+
 ## Project Structure
 
 ```text
