@@ -51,19 +51,20 @@ These results describe the supplied synthetic dataset. Differences between segme
 7. Compared Month 1 retention across acquisition channels and platforms.
 8. Built Power BI dashboards to present executive metrics, cohort retention, and segment comparisons.
 
-## Dashboard
+## Dashboard Preview
 
-### Executive Overview
+### 1. Executive Overview
 
-Presents total users, monthly active users, total events, repeat activity rate, monthly active user trends, and user distribution by acquisition channel and platform.
+![Executive Overview](docs/dashboard-screenshots/executive_overview.png)
 
-### Cohort Retention Analysis
+### 2. Cohort Retention Analysis
 
-Presents cohort size, Month 1 retention, and a cohort retention heatmap showing the share of each signup cohort active in each month since signup.
+![Cohort Retention Analysis](docs/dashboard-screenshots/cohort_retention_analysis.png)
 
-### Retention Segmentation
+### 3. Retention Segmentation
 
-Compares cohort retention patterns across platforms and acquisition channels, including Month 1 retention comparisons.
+![Retention Segmentation](docs/dashboard-screenshots/retention_segmentation.png) 
+
 
 ## Recommendations for Further Investigation
 
@@ -83,21 +84,6 @@ These are proposed investigation steps, not confirmed causes.
 - Repeat activity rate is a separate metric from cohort retention and should not be interpreted as the percentage of all acquired users retained.
 - Event counts measure recorded activity, not necessarily meaningful engagement or successful product outcomes.
 - Segment differences do not establish causation.
-
-## Dashboard Preview
-
-### 1. Executive Overview
-
-![Executive Overview](docs/dashboard-screenshots/executive_overview.png)
-
-### 2. Cohort Retention Analysis
-
-![Cohort Retention Analysis](docs/dashboard-screenshots/cohort_retention_analysis.png)
-
-### 3. Retention Segmentation
-
-![Retention Segmentation](docs/dashboard-screenshots/retention_segmentation.png) 
-
 
 ## Project Structure
 
